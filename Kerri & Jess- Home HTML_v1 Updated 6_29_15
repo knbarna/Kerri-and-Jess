@@ -1,0 +1,28 @@
+/*
+Theme Name: X
+Theme URI: <a href="http://theme.co/x/" target="_blank">http://theme.co/x/</a>
+Author: Themeco
+Author URI: <a href="http://theme.co/" target="_blank">http://theme.co/</a>
+Description: An immensely powerful and endlessly customizable WordPress theme.
+Version: 4.0.1
+License: GNU General Public License v2.0
+License URI: <a href="http://www.gnu.org/licenses/gpl-2.0.html" target="_blank">http://www.gnu.org/licenses/gpl-2.0.html</a>
+Text Domain: __x__
+*/
+
+/*Home Page HTML to the Kerri &amp; Jess Wedding Website: <a href="http://kerriandjess.com" target="_blank">http://kerriandjess.com</a>
+Developed by: Katherine Nicole Barna
+Script updated on: 06/29/2015
+Location of script: Admin &gt; Pages &gt; Home
+Website URL: <a href="http://kerriandjess.com" target="_blank">http://kerriandjess.com</a>
+————————————————————– */
+<pre class="lang:default decode:true " title="Kerri &amp; Jess Home HTML v1_6/29/15">[content_band style="color: #fff;" bg_image="/" parallax="true" border="all" inner_container="true"]
+&lt;span style="background-color: #ea6a5e; line-height: 2em; color: #fff; font-size: 36px; font-weight: 100; padding: 2px 8px 2px 8px;"&gt;September 19, 2015&lt;/span&gt;
+&lt;span style="background-color: #ea6a5e; color: #fff; font-size: 20px; font-weight: 100; padding: 4px 8px 4px 8px;"&gt;The Wisconsin Club Milwaukee, Wisconsin&lt;/span&gt;
+
+[wc_countdown date="September 19, 2015, 6:00:00 PM" format="wdHMs" message="Your Message Here!" labels="Years,Months,Weeks,Days,Hours,Minutes,Seconds" labels1="Year,Month,Week,Day,Hour,Minute,Second"]
+[/content_band]
+[responsive_text selector=".resp-h" compression="1.35" min_size="36px" max_size="64px"]
+[responsive_text selector=".resp-h-timeline" compression="0.85" min_size="28px" max_size="54px"]
+[responsive_text selector=".resp-p" compression="2.65" min_size="18px" max_size="21px"]
+[responsive_text selector=".resp-p-timeline" compression="2.35" min_size="16px" max_size="24px"]​</pre>
