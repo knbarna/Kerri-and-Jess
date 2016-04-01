@@ -1,24 +1,11 @@
-/*
-Theme Name: X
-Theme URI: <a href="http://theme.co/x/" target="_blank">http://theme.co/x/</a>
-Author: Themeco
-Author URI: <a href="http://theme.co/" target="_blank">http://theme.co/</a>
-Description: An immensely powerful and endlessly customizable WordPress theme.
-Version: 4.0.1
-License: GNU General Public License v2.0
-License URI: <a href="http://www.gnu.org/licenses/gpl-2.0.html" target="_blank">http://www.gnu.org/licenses/gpl-2.0.html</a>
-Text Domain: __x__
-*/
-
-/*CSS to the Kerri and Jess Wedding Website: <a href="http://kerriandjess.com" target="_blank">http://kerriandjess.com</a>
+/* Style CSS 
 Developed by: Katherine Nicole Barna
 Script updated on: 06/29/2015
-Location of script: Admin &gt; Customize &gt; CSS
-Website URL: <a href="http://kerriandjess.com" target="_blank">http://kerriandjess.com</a>
-————————————————————– */
-<br>
+Location of script: Admin > Customize > CSS
+Website URL: kerriandjess.com
+*/
  
-<pre class="lang:default decode:true " title="Kerri & Jess- CSS- Updated 6/29/15" >/* Home Content Band-1 */
+/* Home Content Band-1 */
 div#x-content-band-1 {
   padding-top: 300px;
   padding-bottom: 60px;
