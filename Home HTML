@@ -1,19 +1,10 @@
-/*
-Theme Name: X
-Theme URI: http://theme.co/x/
-Author: Themeco
-Author URI: http://theme.co/
-Description: An immensely powerful and endlessly customizable WordPress theme.
-Version: 4.0.1
-License: GNU General Public License v2.0
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: __x__
+/* Home Page HTML 
+Developed by: Katherine Nicole Barna
+Script updated on: 06/29/2015
+Location of script: Admin > Pages > Home
+Website URL: kerriandjess.com
 */
 
-/*Home HTML to the Kerri and Jess Wedding Website
-Developed by: Katherine Nicole Barna
-Script updated: 2015
-————————————————————– */
 <pre class="lang:default decode:true " title="Kerri &amp; Jess HTML Home Updated 2015">[content_band style="color:#fff;" bg_image="/wp-content/uploads/2015/06/home_kerriandjess-2.jpg" class="heroimg" parallax="true" border="all" inner_container="true"]
 &lt;div class="ourwedding"&gt;Our Wedding&lt;/div&gt;
 &lt;div class="ourdate"&gt;September 19, 2015 | The Wisconsin Club | Milwaukee, Wisconsin&lt;/div&gt;
