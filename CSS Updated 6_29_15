@@ -1,0 +1,164 @@
+/*
+Theme Name: X
+Theme URI: <a href="http://theme.co/x/" target="_blank">http://theme.co/x/</a>
+Author: Themeco
+Author URI: <a href="http://theme.co/" target="_blank">http://theme.co/</a>
+Description: An immensely powerful and endlessly customizable WordPress theme.
+Version: 4.0.1
+License: GNU General Public License v2.0
+License URI: <a href="http://www.gnu.org/licenses/gpl-2.0.html" target="_blank">http://www.gnu.org/licenses/gpl-2.0.html</a>
+Text Domain: __x__
+*/
+
+/*CSS to the Kerri and Jess Wedding Website: <a href="http://kerriandjess.com" target="_blank">http://kerriandjess.com</a>
+Developed by: Katherine Nicole Barna
+Script updated on: 06/29/2015
+Location of script: Admin &gt; Customize &gt; CSS
+Website URL: <a href="http://kerriandjess.com" target="_blank">http://kerriandjess.com</a>
+————————————————————– */
+<br>
+ 
+<pre class="lang:default decode:true " title="Kerri & Jess- CSS- Updated 6/29/15" >/* Home Content Band-1 */
+div#x-content-band-1 {
+  padding-top: 300px;
+  padding-bottom: 60px;
+  text-align: center;
+}
+.x-content-band {
+  margin: 0 0 0em;
+}
+
+/* Logo Title */
+a.x-brand.text {
+   font-family: "Source Sans Pro",sans-serif;
+  letter-spacing: 0.35px;
+  text-transform: uppercase;
+}
+
+/* HOME Top Navigation Bar */
+.home .x-logobar, .home .x-navbar {
+  background-color: transparent !important;
+}
+.home .masthead {
+  height:0;
+}
+.home a.x-brand.text {
+color: #fff;
+}
+.home .x-navbar .desktop .x-nav &gt; .current-menu-item &gt; a {
+  color: #fff;
+}
+.home .x-navbar .desktop .x-nav &gt; li &gt; a {
+color: #dadada;
+}
+.home .x-navbar .desktop .x-nav &gt; li &gt; a:hover {
+color: #fff;
+}
+.home .x-logobar, .x-navbar.x-navbar-fixed-top {
+  background-color: rgba(37, 37, 37, 0.72) !important;
+}
+.home .x-logobar, .x-navbar.x-navbar-fixed-top a.x-brand.text {
+  color: #fff !important;
+}
+.home .x-navbar.x-navbar-fixed-top .desktop .x-nav &gt; .current-menu-item &gt; a {
+  color: #fff;
+}
+.home .x-navbar.x-navbar-fixed-top .desktop .x-nav &gt; li &gt; a {
+color: #dadada;
+}
+.home .x-navbar.x-navbar-fixed-top .desktop .x-nav &gt; li &gt; a:hover {
+color: #fff;
+}
+
+/* Top Navigation Bar */
+.x-navbar {
+  border-top: solid 5px #ea6a5e;
+  border-bottom: solid 0px;
+  height: 70px;
+  background: #fff;
+}
+
+/* Top Navigation Bar- Hover */
+.x-navbar.x-navbar-fixed-top {
+   border-top: solid 5px #ea6a5e;
+  border-bottom: solid 1px F0F0F0;
+  height: 75px;
+  background: #ffffff url(/) repeat-x;
+}
+.x-navbar.x-navbar-fixed-top .x-nav-wrap .x-nav &gt; li &gt; a {
+color: #C0C0C0;
+}
+.x-navbar.x-navbar-fixed-top .x-nav-wrap .x-nav &gt; li &gt; a:hover {
+color: #fff;
+}
+.x-navbar-fixed-top .x-brand {
+  color: #000;
+}
+ 
+/* Hover Nav Menu Button */
+.x-navbar .desktop .x-nav &gt; .current-menu-item &gt; a {
+box-shadow: inset 0 0px 0 0 rgba(132, 132, 132, 0);
+}
+.x-navbar .desktop .x-nav &gt; li &gt; a:hover, .x-navbar .desktop .x-nav &gt; .x-active &gt; a, .x-navbar .desktop .x-nav &gt; .current-menu-item &gt; a {
+box-shadow: inset 0 0px 0 0 rgba(132, 132, 132, 0);
+}
+ 
+/* Hover Nav Button Bar */
+.x-navbar .desktop .x-nav &gt; li &gt; a:hover, .x-navbar .desktop .x-nav &gt; .x-active &gt; a, .x-navbar .desktop .x-nav &gt; .current-menu-item &gt; a {
+box-shadow: inset 0 0px 0 0 rgba(132, 132, 132, 0);
+}
+ 
+/*Menu Typography Style */
+.x-navbar .x-nav-wrap .x-nav &gt; li &gt; a {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  letter-spacing: 0.5px;
+}
+
+/* Mobile Nav */
+.x-btn-navbar.collapsed {
+  color: #424C49;
+  background-color: #fff;
+  border: 1px solid #DBDBDB;
+  box-shadow: inset 0 0 0 transparent,0 0 0 rgba(205, 205, 205, 0);
+}
+.x-btn-navbar.collapsed:hover {
+  color: #fff;
+  background-color: #424C49;
+  box-shadow: inset 0 1px 0 rgba(0,0,0,0.25);
+}
+a.x-btn-navbar.collapsed {
+  color: #424C49;
+  background-color: #fff;
+  border: 1px solid #DBDBDB;
+  box-shadow: inset 0 0 0 transparent,0 0 0 rgba(205, 205, 205, 0);
+}
+.x-navbar .mobile .x-nav {
+  margin: 0px 0;
+  background-color: #fff;
+}
+.x-navbar .mobile .x-nav {
+  margin: 0px 0;
+  margin-left: 15px;
+  background-color: #fff;
+}
+li {
+  line-height: 1.7;
+  padding-left: 10px;
+}
+
+/* Entry Wrap */
+.entry-wrap {
+box-shadow: 0 0 0 0 rgba(0,0,0,0.135);
+}
+
+/* Footer */
+.x-colophon.bottom {
+  padding: 10px 0;
+  font-size: 10px;
+  text-align: center;
+  color: #7a7a7a;
+  border-bottom: solid 5px #ea6a5e;
+  background-color: #2D3033;
+}</pre> 
